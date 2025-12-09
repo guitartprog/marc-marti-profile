@@ -1,18 +1,18 @@
 # 👋 Hola! Sóc en **Marc Martí**
 
 Benvingut al meu espai digital!  
-Sóc estudiant d’**ASIR (Administració de Sistemes Informàtics en Xarxa)** i un apassionat de la **ciberseguretat** i el **pentesting**.
+Sóc estudiant d’**ASIR (Administració de Sistemes Informàtics en Xarxa)** i apassionat de la **ciberseguretat**, especialment del **pentesting**.
 
-Actualment visc a **Olot (Catalunya)** i estic construint el meu camí professional dins del món de la seguretat informàtica.
+Vinc d’**Olot (Catalunya)** i estic construint el meu camí dins del món de la seguretat informàtica.
 
 ---
 
 ## 🔐 Sobre mi  
 - 🎓 Estudiant d’ASIR (1r any)  
-- 🔒 Enfocat en ciberseguretat i pentesting  
-- 🛠️ Experiència amb sistemes, xarxes i virtualització  
-- 🌱 Aprenentatge actual: Linux, xarxes, vulnerabilitats, pentesting i automatització  
-- 🤖 Projectes amb IA i eines útils
+- 🛡️ Enfocat en ciberseguretat i pentesting  
+- 💻 Experiència amb sistemes, xarxes i virtualització  
+- 🌱 Actualment aprenc: Linux avançat, protocols de xarxa, vulnerabilitats, pentesting i automatització  
+- 🤖 També faig petits projectes utilitzant IA
 
 ---
 
@@ -29,7 +29,7 @@ Actualment visc a **Olot (Catalunya)** i estic construint el meu camí professio
 
 ---
 
-### 🧪 **Ciberseguretat**
+### 🛡️ **Ciberseguretat**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
 <img src="https://cdn.simpleicons.org/wireshark/2CA8E1" width="60px"/>
@@ -54,30 +54,34 @@ Actualment visc a **Olot (Catalunya)** i estic construint el meu camí professio
 
 ---
 
-## 🧪 Projectes destacats  
-
-### 🔹 **Predictor de dates per a autoescoles (Web + IA)**
-Web que calcula dates estimades de pràctiques. Minimalista, ràpida i sense BBDD.
-
-### 🔹 **Scripts d’administració (Windows i Linux)**
-Automatitzacions, gestió de processos, xarxes i pràctiques del cicle ASIR.
-
-### 🔹 **Laboratori personal de ciberseguretat**
-Proves d’enumeració, escaneig de ports, vulnerabilitats bàsiques i entorns vulnerables.
-
----
-
 ## 🎯 Objectius actuals
-- Millorar el meu nivell tècnic en pentesting  
-- Desenvolupar projectes útils i aplicables  
-- Preparar-me per una carrera especialitzada en ciberseguretat  
-- Continuar aprenent Linux, xarxes i hacking ètic
+- Millorar el meu nivell en pentesting (web + sistemes)  
+- Crear projectes útils i pràctics  
+- Preparar-me per una carrera de ciberseguretat o una enginyeria informàtica  
+- Continuar millorant Linux, xarxes i scripting  
 
 ---
+
+# 🎮 Aficions i interessos
+
+### 🔫 **Ciberseguretat i hacking ètic**  
+Aprendre vulnerabilitats, fer proves en labs i millorar cada dia.
+
+### 🎯 **Caça**  
+Aficionat als cotos, fauna i natura.
+
+### 🎮 **Gaming**  
+Fan del **CS2**, shooters i jocs competitius.
+
+### 🐾 Natura i aire lliure  
+M’encanta sortir, explorar i desconnectar de la pantalla.
+
+---
+
 
 ## 📫 Contacte
-- ✉️ *(Afegeix el teu email aquí si vols)*  
-- 🌐 El teu GitHub ja apareix automàticament
+- ✉️ *martiguitartm@gmail.com*  
+
 
 ---
 
