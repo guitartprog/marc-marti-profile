@@ -15,42 +15,48 @@ Vinc d’**Olot (Catalunya)** i estic construint el meu camí dins del món de l
 - 🤖 També faig petits projectes utilitzant IA
 
 ---
-
 # 🧰 Tecnologies i eines que domino
 
+---
+
+## 🔵 Sistemes operatius
 <p align="left">
-
-### 🔵 **Sistemes operatius**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="60px"/>
-
----
-
-### 🛡️ **Ciberseguretat**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
-<img src="https://cdn.simpleicons.org/wireshark/2CA8E1" width="60px"/>
-<img src="https://cdn.simpleicons.org/gnometerminal/241F31" width="60px"/>
-
----
-
-### 💻 **Programació i desenvolupament**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px"/>
-
----
-
-### 🗂️ **Virtualització i eines**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px"/>
-<img src="https://cdn.simpleicons.org/virtualbox/183A61" width="60px"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="60px" />
 </p>
+
+---
+
+## 🛡️ Ciberseguretat
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" />
+  <img src="https://cdn.simpleicons.org/wireshark/2CA8E1" width="60px" />
+  <img src="https://cdn.simpleicons.org/gnometerminal/241F31" width="60px" />
+</p>
+
+---
+
+## 💻 Programació i desenvolupament
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" />
+</p>
+
+---
+
+## 🗂️ Virtualització i eines
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="60px" />
+</p>
+
 
 ---
 
