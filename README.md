@@ -52,7 +52,7 @@ Vinc d’**Olot (Catalunya)** i estic construint el meu camí dins del món de l
 
 ## 🗂️ Virtualització i eines
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="60px" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px" />
   <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="60px" />
 </p>
